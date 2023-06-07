@@ -1,4 +1,4 @@
-<h1>Hi, I'm Skye, an <a href="(https://www.linkedin.com/in/skye-franklin-7a5087242/)">IT Professional
+<h1>Hi, I'm Skye, an <a href="(https://www.linkedin.com/in/skye-franklin)">IT Professional
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Jane
 [instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]: https://linkedin.com/in/skye-franklin
