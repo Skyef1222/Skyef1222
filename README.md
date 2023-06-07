@@ -1,4 +1,4 @@
-<h1>Hi, I'm Skye, an <a href="(https://www.linkedin.com/in/skye-franklin)">IT Professional
+<h1>Hi, I'm Skye, an <a href="(https://www.linkedin.com/in/skye-franklin-7a5087242/)">IT Professional
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Jane
-[instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/skye-franklin
+[twitter]: 
+[instagram]: 
+[linkedin]: https://linkedin.com/in/skye-franklin-7a5087242/
